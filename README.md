@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=luizdiaz1&repo=luizdiaz1&theme=dark&bg_color=000000&title_color=0052FF&text_color=ffffff&icon_color=0052FF&show_owner=false&description=Desenvolvedor%20FullStack%20|%20ADS%20UNISUAM" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0052FF&height=100&section=header&reversal=false&bg_color=000000" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=500&color=0052FF&background=00000000&center=true&vCenter=true&width=600&lines=Seja+bem-vindo!;Welcome!;%C2%A1Bienvenido!;Bienvenue!;%E6%AC%A2%E8%BF%8E!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=500&color=0052FF&background=00000000&center=true&vCenter=true&width=600&lines=Seja+bem-vindo!;Welcome!;%C2%A1Bienvenido!;Bienvenue!;%E6%AC%A2%E8%BF%8E!" />
 </p>
 
 # 👨🏻‍💻 Luiz Dias
@@ -56,10 +56,6 @@ Olá! Sou o Luiz Dias, desenvolvedor apaixonado por tecnologia e inovação. Atu
 </p>
 
 <br/>
-<br/>
-
-<br/>
-<br/>
 
 ### 📊 Estatísticas e Desempenho
 
@@ -68,7 +64,7 @@ Olá! Sou o Luiz Dias, desenvolvedor apaixonado por tecnologia e inovação. Atu
 </p>
 
 <p align="center">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luizdiaz1&show_icons=true&bg_color=00000000&title_color=0052FF&text_color=ffffff&icon_color=0052FF&border_color=0052FF&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true&border_radius=10" />
+  <img width="450" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luizdiaz1&show_icons=true&bg_color=00000000&title_color=0052FF&text_color=ffffff&icon_color=0052FF&border_color=0052FF&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true&border_radius=10" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img width="419" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luizdiaz1&bg_color=00000000&title_color=0052FF&text_color=ffffff&layout=compact&custom_title=Tecnologias&langs_count=9&border_color=0052FF&hide_border=true&border_radius=10" />
 </p>
