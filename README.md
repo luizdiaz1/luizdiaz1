@@ -64,7 +64,7 @@ Olá! Sou o Luiz Dias, desenvolvedor apaixonado por tecnologia e inovação. Atu
 </p>
 
 <p align="center">
-  <img width="420" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luizdiaz1&show_icons=true&bg_color=00000000&title_color=0052FF&text_color=ffffff&icon_color=0052FF&border_color=0052FF&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true&border_radius=10" />
+  <img width="410" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luizdiaz1&show_icons=true&bg_color=00000000&title_color=0052FF&text_color=ffffff&icon_color=0052FF&border_color=0052FF&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true&border_radius=10" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img width="419" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luizdiaz1&bg_color=00000000&title_color=0052FF&text_color=ffffff&layout=compact&custom_title=Tecnologias&langs_count=9&border_color=0052FF&hide_border=true&border_radius=10" />
 </p>
