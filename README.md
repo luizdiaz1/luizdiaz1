@@ -4,39 +4,45 @@
 
 # 👨🏻‍💻 Luiz Dias
 
-**`Automação de processos · Sistemas internos`**
+**`Automação de Processos · Melhoria Contínua · Sistemas Internos`**
 
-Trabalho como jovem aprendiz na DIME Distribuidora desde janeiro de 2026. Comecei na expedição e, em abril, fui para a frota. Lá os controles ficavam espalhados em planilhas, então comecei a desenvolver sistemas para resolver isso. Hoje são cinco, usados ou em implantação em quatro áreas da empresa.
+Sou estudante de Análise e Desenvolvimento de Sistemas na **UNISUAM** e atuo na DIME Distribuidora. Meu foco como desenvolvedor é identificar processos manuais e pouco eficientes e transformá-los em soluções digitais simples, confiáveis e fáceis de usar no dia a dia.
 
-Curso Análise e Desenvolvimento de Sistemas na **UNISUAM** (5º período) e procuro vaga júnior ou estágio em automação de processos, análise de processos ou desenvolvimento de soluções internas.
+Uso a tecnologia como ferramenta para resolver problemas de negócio: entendo a rotina de quem executa o processo, organizo as informações e construo sistemas que reduzem retrabalho, dão visibilidade aos dados e apoiam a tomada de decisão.
 
-📂 Portfólio com as demos: **[portfolio-luizdias.vercel.app](https://portfolio-luizdias.vercel.app)** ([English](https://portfolio-luizdias.vercel.app/en/)) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/luiz-dias-76ab892b9) &nbsp;·&nbsp; ✉️ guilhermeluiz671@gmail.com
+
+📂 **[Portfólio](https://portfolio-luizdias.vercel.app)** ([English](https://portfolio-luizdias.vercel.app/en/)) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/luiz-dias-76ab892b9) &nbsp;·&nbsp; ✉️ guilhermeluiz671@gmail.com
 
 ---
 
-### 🚚 Projetos na DIME Distribuidora
+### 💼 O que eu faço
 
-As demos usam dados fictícios e um banco simulado no navegador. Os sistemas reais rodam internamente.
+- **Mapeamento de processos** — entendo o fluxo atual, os gargalos e o que realmente precisa mudar
+- **Digitalização de controles** — substituo planilhas e papéis por sistemas centralizados
+- **Automação e relatórios** — gero indicadores e relatórios de forma automática
+- **Implantação junto aos usuários** — acompanho a adoção e ajusto a solução com base no uso real
 
-| Projeto | O que resolve | Situação | Demo |
-|---|---|---|---|
-| [Gestão de Frota](https://github.com/luizdiaz1/gestao-de-frota) | Substituiu as planilhas do setor de frota: alertas de vencimento, histórico por veículo, checklist em vídeo, consumo km/L e relatórios mensais | Em uso | [abrir](https://portfolio-luizdias.vercel.app/frota/) |
-| [Veículos de Passeio](https://github.com/luizdiaz1/controle-veiculos-passeio) | Retirada e devolução dos carros do comercial com assinatura digital, roteiro no mapa e fotos | Publicado | [abrir](https://portfolio-luizdias.vercel.app/promotor/) |
-| [Qualidade 10S](https://github.com/luizdiaz1/qualidade-10s) | Vistoria em PDF virou fluxo: não conformidade, foto, ação corretiva, eficácia e relatório automático | Em implantação | [abrir](https://portfolio-luizdias.vercel.app/qualidade/) |
-| [Agregados e CIOT](https://github.com/luizdiaz1/controle-agregados-ciot) | Serviços de motoristas terceiros e cálculo de comissão e bonificação por quinzena | Em desenvolvimento | [abrir](https://portfolio-luizdias.vercel.app/agregados/) |
+---
 
-Também fiz os relatórios mensais de consumo de combustível da frota (abril a julho de 2026) e usei OCR para ler 334 notas fiscais de serviço e localizar as placas dos veículos.
+### 🚀 Projetos em destaque
 
-### 🤖 Projeto pessoal: ORION
+Sistemas desenvolvidos a partir de necessidades reais da operação. As demos utilizam dados fictícios.
 
-Um assistente que cria sistemas web a partir de um pedido em texto ou voz. Ele escreve a especificação, gera o código, roda testes e aceita alterações por conversa, guardando cada versão. Gerou 10 sistemas nos testes. Ainda está em desenvolvimento, e há detalhes e capturas de tela [no portfólio](https://portfolio-luizdias.vercel.app/#orion).
+| Projeto | Descrição | Demo |
+|---|---|---|
+| [Gestão de Frota](https://github.com/luizdiaz1/gestao-de-frota) | Centraliza o controle da frota: manutenções, vencimentos, consumo e relatórios | [abrir](https://portfolio-luizdias.vercel.app/frota/) |
+| [Veículos de Passeio](https://github.com/luizdiaz1/controle-veiculos-passeio) | Controle de retirada e devolução de veículos com registro digital | [abrir](https://portfolio-luizdias.vercel.app/promotor/) |
+| [Qualidade 10S](https://github.com/luizdiaz1/qualidade-10s) | Gestão de vistorias, não conformidades e ações corretivas | [abrir](https://portfolio-luizdias.vercel.app/qualidade/) |
+| [Agregados e CIOT](https://github.com/luizdiaz1/controle-agregados-ciot) | Controle de serviços de terceiros e cálculo de comissões | [abrir](https://portfolio-luizdias.vercel.app/agregados/) |
+
+**🤖 ORION** — projeto pessoal de um assistente que gera sistemas web a partir de pedidos em texto ou voz, cuidando da especificação, do código e dos testes. [Saiba mais](https://portfolio-luizdias.vercel.app/#orion).
 
 ---
 
 ### 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,supabase,postgres,nodejs,sqlite,vercel,react,ts,mysql,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,supabase,postgres,mysql,sqlite,vercel,figma&theme=dark" />
 </p>
 
 <br/>
